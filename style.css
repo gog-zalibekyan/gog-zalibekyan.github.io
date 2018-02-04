@@ -1,0 +1,39 @@
+body {
+	background: #E1E1E1
+}
+p {
+	color: #818181;
+	font-family: Lato;
+	font-size: 14px;
+}
+h1 {
+	text-align: center;
+	color: #818181;
+}
+#header {
+	background: #E1E1E1;
+
+}
+.personal_information  {
+	background: #7CC0D3;
+	color: white;
+	text-align: center;
+}
+  table {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+  #edu {
+ background: #7CC0D3;
+
+  }
+  #experience {
+  	color: #7CC0D3;
+  }
+#find_me {
+	background: black;
+	color: white;
+}
+table, th, td {
+    border: 1px solid black;
+}
